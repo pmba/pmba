@@ -1,8 +1,8 @@
-[![Linkedin](shields/linkedin.png)](https://www.linkedin.com/in/phyllipe-bezerra-352037191)
-[![Gmail](shields/gmail.png)](https://mail.google.com/mail/?view=cm&fs=1&to=phyllipebezerra@handtalk.me)
-[![Telegram](shields/telegram.png)](https://t.me/pmbalves)
-[![Twitch](shields/twitch.png)]()
-[![Twitter](shields/twitter.png)](twitter.com/phipslon)
+[![Linkedin](https://github.com/pmba/pmba/blob/master/shields/linkedin.png?raw=true)](https://www.linkedin.com/in/phyllipe-bezerra-352037191)
+[![Gmail](https://github.com/pmba/pmba/blob/master/shields/gmail.png?raw=true)](https://mail.google.com/mail/?view=cm&fs=1&to=phyllipebezerra@handtalk.me)
+[![Telegram](https://github.com/pmba/pmba/blob/master/shields/telegram.png?raw=true)](https://t.me/pmbalves)
+[![Twitch](https://github.com/pmba/pmba/blob/master/shields/twitch.png?raw=true)]()
+[![Twitter](https://github.com/pmba/pmba/blob/master/shields/twitter.png?raw=true)](twitter.com/phipslon)
 
 ## 👋 Oh... Hello there
 
