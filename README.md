@@ -1,6 +1,10 @@
-# 🚧 Sorry for the mess, we are under construction 
+[![Linkedin](shields/linkedin.png)](https://www.linkedin.com/in/phyllipe-bezerra-352037191)
+[![Gmail](shields/gmail.png)](https://mail.google.com/mail/?view=cm&fs=1&to=phyllipebezerra@handtalk.me)
+[![Telegram](shields/telegram.png)](https://t.me/pmbalves)
+[![Twitch](shields/twitch.png)]()
+[![Twitter](shields/twitter.png)](twitter.com/phipslon)
 
-# 👋 Oh... Hello
+## 👋 Oh... Hello there
 
 It's very nice to see you here! My name isPhyllipe Bezerra, 21 years old, currently a Science Computer student at Universidade Federal de Alagoas at Maceió in Brazil and fullstack/mobile developer at [Handtalk](https://handtalk.me), previously Full Stack web developer at Projeto TATU.
 
