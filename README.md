@@ -8,6 +8,8 @@
 
 It's very nice to see you here! My name isPhyllipe Bezerra, 21 years old, currently a Science Computer student at Universidade Federal de Alagoas at Maceió in Brazil and fullstack/mobile developer at [Handtalk](https://handtalk.me), previously Full Stack web developer at Projeto TATU.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pmba&show_icons=true&theme=tokyonight)
+
 <!--- 🔭 I’m currently working on ...-->
 <!--- 🌱 I’m currently learning ...-->
 <!--- 👯 I’m looking to collaborate on ...-->
