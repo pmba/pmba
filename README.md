@@ -11,9 +11,6 @@ It's very nice to see you here! My name isPhyllipe Bezerra, 21 years old, curren
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pmba&show_icons=true&theme=tokyonight" />
 </a>
-<a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmba&layout=compact&theme=tokyonight" />
-</a>
 
 <!--- 🔭 I’m currently working on ...-->
 <!--- 🌱 I’m currently learning ...-->
