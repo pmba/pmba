@@ -6,7 +6,7 @@
 
 ## 👋 Oh... Hello there
 
-It's very nice to see you here! My name isPhyllipe Bezerra, 21 years old, currently a Science Computer student at Universidade Federal de Alagoas at Maceió in Brazil and fullstack/mobile developer at [Handtalk](https://handtalk.me), previously Full Stack web developer at Projeto TATU.
+It's very nice to see you here! My name isPhyllipe Bezerra, 22 years old, currently a Science Computer student at Universidade Federal de Alagoas at Maceió in Brazil and fullstack/mobile developer at [Handtalk](https://handtalk.me), previously Full Stack web developer at Projeto TATU.
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pmba&show_icons=true&theme=tokyonight" />
