@@ -6,7 +6,14 @@
 
 It's very nice to see you here! My name is Phyllipe Bezerra, 23 years old, currently a Science Computer student at Universidade Federal de Alagoas in Maceió - AL, Brazil and fullstack/mobile developer at [Handtalk](https://handtalk.me).
 
-<hr/>
+##
 
-![Pmba Status](https://github-readme-stats.vercel.app/api?username=pmba&show_icons=true&include_all_commits=true&count_private=true)
-![Pmba Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmba&layout=compact&hide_title=false)
+<div>
+  <a href="https://github.com/kmandzzz" style="text-decoration:none">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pmba&show_icons=true"/>
+  </a>
+  <a href="https://github.com/kmandzzz" style="text-decoration:none">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmba&layout=compact"/>
+  </a
+</div>
+   
