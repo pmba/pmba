@@ -10,10 +10,10 @@ It's very nice to see you here! My name is Phyllipe Bezerra, 23 years old, curre
 
 <div>
   <a href="https://github.com/kmandzzz" style="text-decoration:none">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pmba&show_icons=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pmba&show_icons=true&theme=github_dark"/>
   </a>
   <a href="https://github.com/kmandzzz" style="text-decoration:none">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmba&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmba&layout=compact&theme=github_dark"/>
   </a
 </div>
    
