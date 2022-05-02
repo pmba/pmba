@@ -5,7 +5,7 @@
 [![Gmail](https://github.com/pmba/pmba/blob/master/shields/gmail.png?raw=true)](https://mail.google.com/mail/?view=cm&fs=1&to=phyllipe.bezerra@gmail.com)
 [![Telegram](https://github.com/pmba/pmba/blob/master/shields/telegram.png?raw=true)](https://t.me/pmbalves)
 
-I am currently a Science Computer student at Universidade Federal de Alagoas in Maceió, Brazil, and Tech Leader at [Handtalk](https://handtalk.me).
+I am currently a Science Computer student at Universidade Federal de Alagoas in Maceió, AL - Brazil, and Tech Leader at [Handtalk](https://handtalk.me).
 
 ##
 
