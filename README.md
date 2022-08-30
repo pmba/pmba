@@ -1,6 +1,12 @@
-## I'm Phyllipe Bezerra
-Software Developer and Computer Science student
+<div align="center">
+  
+  ## I'm Phyllipe Bezerra
+  Software Developer and Computer Science student
+  
+  <a href="https://www.linkedin.com/in/phyllipe-bezerra-352037191">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=phyllipe.bezerra@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://t.me/pmbalves">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
-[![Linkedin](https://github.com/pmba/pmba/blob/master/shields/linkedin.png?raw=true)](https://www.linkedin.com/in/phyllipe-bezerra-352037191)
-[![Gmail](https://github.com/pmba/pmba/blob/master/shields/gmail.png?raw=true)](https://mail.google.com/mail/?view=cm&fs=1&to=phyllipe.bezerra@gmail.com)
-[![Telegram](https://github.com/pmba/pmba/blob/master/shields/telegram.png?raw=true)](https://t.me/pmbalves)
+</div>
+
+<!-- https://metrics.lecoq.io/insights/pmba -->
